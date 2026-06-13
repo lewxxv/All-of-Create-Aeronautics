@@ -53,6 +53,13 @@
 	quest.02D5439ACE50EC34.title: "Obtain Refined Coal Coke"
 	quest.0306E0A1DA82A811.quest_subtitle: "A &cRedstone Contact&r component that outputs a signal when in contact with another &cRedstone Contact&r. Particularly useful for building contraptions"
 	quest.0360911A620C6613.title: "Obtain Rose Quartz Catalyst Coil"
+	quest.03795968E7FA18BA.quest_desc: [
+		"Place it. &eRight-click&r"
+		"You can now see every shop on the server, price history, trends, and the most active traders"
+		""
+		"The mod scans the world for &6Table Cloth&r and &6Tradeworks Shelves&r and turns them into a live market interface similar to a stock exchange with the &6Market Terminal&r block"
+	]
+	quest.03795968E7FA18BA.quest_subtitle: "&6&lCreate: Stock Market&r turns your server economy into a live, player-driven stock exchange"
 	quest.03CD30560CC82ACC.quest_subtitle: "-20% Engine power -75% fuel requirement, for those long haul trips on the cheap"
 	quest.03FAA1891E7D56FD.quest_subtitle: "A &6Smart Chute&r is a more configurable chute that also allows full item stacks to be moved"
 	quest.046435AD378CE0C8.quest_subtitle: "Best of the best magnets in store, but extremely expensive"
