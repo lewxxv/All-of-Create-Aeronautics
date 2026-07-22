@@ -300,6 +300,7 @@
 					type: "item"
 				}
 			]
+			size: 1.5d
 			tasks: [{
 				id: "6C6F7E8DF3ABBCDF"
 				type: "checkmark"

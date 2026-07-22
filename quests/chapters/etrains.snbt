@@ -170,6 +170,9 @@
 		}
 		{
 			dependencies: ["5160C9AD28A09E93"]
+			icon: {
+				id: "create_things_and_misc:train_buffer"
+			}
 			id: "66760C6B0C1DDDD0"
 			tasks: [
 				{
@@ -200,6 +203,9 @@
 		}
 		{
 			dependencies: ["5160C9AD28A09E93"]
+			icon: {
+				id: "create:mechanical_roller"
+			}
 			id: "6A7CDF204DB01A20"
 			tasks: [
 				{
