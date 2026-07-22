@@ -173,29 +173,18 @@
 				type: "loot"
 			}]
 			tasks: [{
-				id: "220895B6FA63C1F7"
-				item: { count: 1, id: "aeronautics:levitite" }
-				type: "item"
+				icon: {
+					id: "aeronautics:levitite"
+				}
+				id: "1100A1CFAA6410C5"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "aeronautics:levitite"
+				type: "observation"
 			}]
 			x: -4.5d
-			y: 0.5d
-		}
-		{
-			dependencies: ["38830B6B945944C9"]
-			id: "262183D05A594A69"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "03BED730D37DCA38"
-				table_id: 5001068052608706388L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "652A1A68565C0639"
-				item: { count: 1, id: "aeronautics:pearlescent_levitite" }
-				type: "item"
-			}]
-			x: -5.0d
-			y: 2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["76D805D38E84858C"]

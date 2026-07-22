@@ -279,23 +279,11 @@
 				table_id: 5001068052608706388L
 				type: "random"
 			}]
-			tasks: [
-				{
-					id: "3C895C34F5D1A756"
-					item: { count: 1, id: "createpropulsion:wing" }
-					type: "item"
-				}
-				{
-					id: "31107B99902A7A41"
-					item: { count: 1, id: "createpropulsion:tempered_wing" }
-					type: "item"
-				}
-				{
-					id: "4E97493DBBE7914E"
-					item: { count: 1, id: "createpropulsion:copycat_wing" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "3C895C34F5D1A756"
+				item: { count: 1, id: "createpropulsion:wing" }
+				type: "item"
+			}]
 			x: -1.5d
 			y: 2.5d
 		}

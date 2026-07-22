@@ -21,7 +21,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "6DDE4920AF4C1B5A"
-				item: { count: 1, id: "totemfactory:tumbaga_alloy" }
+				item: { components: { "ftbquests:missing_item": "totemfactory:tumbaga_alloy" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -32,7 +32,7 @@
 			id: "763C356859F85A65"
 			tasks: [{
 				id: "1836D336A5643879"
-				item: { count: 1, id: "totemfactory:totem_head_casing" }
+				item: { components: { "ftbquests:missing_item": "totemfactory:totem_head_casing" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -43,7 +43,7 @@
 			id: "5C583586C93CA3F7"
 			tasks: [{
 				id: "0749DE1697A100D9"
-				item: { count: 1, id: "totemfactory:totem_body_casing" }
+				item: { components: { "ftbquests:missing_item": "totemfactory:totem_body_casing" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -84,7 +84,7 @@
 			}]
 			tasks: [{
 				id: "2D0C35204AAAA4EA"
-				item: { count: 1, id: "totemfactory:totem_head" }
+				item: { components: { "ftbquests:missing_item": "totemfactory:totem_head" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 6.5d
@@ -106,7 +106,7 @@
 			id: "383B1CC5757D8729"
 			tasks: [{
 				id: "74BC4EA91DE1F741"
-				item: { count: 1, id: "totemfactory:tumbaga_alloy" }
+				item: { components: { "ftbquests:missing_item": "totemfactory:tumbaga_alloy" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 5.0d
@@ -125,7 +125,7 @@
 			}]
 			tasks: [{
 				id: "5C09F13CEC83CC52"
-				item: { count: 1, id: "totemfactory:totem_body" }
+				item: { components: { "ftbquests:missing_item": "totemfactory:totem_body" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 6.5d
@@ -141,7 +141,7 @@
 			size: 1.2d
 			tasks: [{
 				id: "40ED1D9CFF6EA276"
-				item: { count: 1, id: "totemfactory:inactive_totem" }
+				item: { components: { "ftbquests:missing_item": "totemfactory:inactive_totem" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 8.5d
@@ -160,8 +160,11 @@
 					count: 4
 					id: "10F6A80544A436DC"
 					item: {
+						components: {
+							"ftbquests:missing_item": "totemfactory:tumbaga_alloy"
+						}
 						count: 1
-						id: "totemfactory:tumbaga_alloy"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
