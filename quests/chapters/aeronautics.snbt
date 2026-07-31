@@ -7,6 +7,7 @@
 		id: "simulated:physics_assembler"
 	}
 	id: "048AB9655BAEC29A"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
