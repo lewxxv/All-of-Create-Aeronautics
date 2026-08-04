@@ -5,7 +5,7 @@
 	chapter.06DB0353E8EA3593.title: " &ePump Dat Oil"
 	chapter.101AD3797FD8468B.title: " &eConnected"
 	chapter.1B0C12C08F8F51A6.title: " &eMinecarts"
-	chapter.24A2B97480385AEB.title: "&e Electro Engergetics"
+	chapter.24A2B97480385AEB.title: "&e Electro Energetics"
 	chapter.27900E4479E6E12D.title: " &eCreate"
 	chapter.28E11357A94C6392.title: " &eCreate Kitchen"
 	chapter.2E4EDF68FD3370DA.title: "&e Aeronautics"
@@ -85,7 +85,7 @@
 	quest.05422CBF447A8BB8.title: "&6Shear Pin"
 	quest.056C707476E4BA33.quest_subtitle: "You will require either of these to insert fuel into the inserter"
 	quest.056C707476E4BA33.title: "Inserting fuel "
-	quest.056C82BE2EB5AA4D.title: "Obtain Papers"
+	quest.056C82BE2EB5AA4D.title: "Craft Papers"
 	quest.05BC7CBC05B15830.quest_subtitle: "Pushes heat to a small area, be careful to not pump too much heat.."
 	quest.05BFBACBB2337231.quest_desc: [
 		"&7Andesite&r is a very abundant stone that you can find in large pockets underground. They blend really well with the stone texture, so keep your eyes open for them"
